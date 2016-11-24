@@ -447,7 +447,7 @@ let styles = StyleSheet.create({
     flex: 1,
   },
   navigator: {
-    backgroundColor: '#1272b6',
+    backgroundColor: 'rgb(251, 117, 19)',
   },
   scene: {
     backgroundColor: 'transparent',

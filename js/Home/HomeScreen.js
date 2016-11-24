@@ -111,6 +111,7 @@ class HomeScreen extends React.Component {
               style={styles.exponent}
             />
           </View>
+          <Text style={{margin: 5, color: "white"}}>custom build for Desktop</Text>
           {activityIndicator}
         </View>
         <HomeUrlBar

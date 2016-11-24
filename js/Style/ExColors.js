@@ -7,7 +7,7 @@
 'use strict';
 
 let ExColors = {
-  exponentBlue: '#1b73b4',
+  exponentBlue: 'rgb(251, 117, 19)',
   background: '#efeff4',
   buttonBackground: '#d8d7dc',
   buttonBorder: '#c8c7cc',
