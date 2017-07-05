@@ -1,6 +1,6 @@
-# Exponent _for Desktop_ [![Slack](http://slack.exponentjs.com/badge.svg)](http://slack.exponentjs.com)
+# Exponent [![Slack](http://slack.exponentjs.com/badge.svg)](http://slack.exponentjs.com)
 
-The Exponent app for Android and iOS _customized for Desktop's needs_.
+The Exponent app for Android and iOS.
 
 To develop or run Exponent experiences on your device, download Exponent [for Android 4.4+ from the Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent) or [for iOS 8+ from the App Store](https://itunes.com/apps/exponent). [Click here for instructions to install the app on an iOS simulator or Android emulator](https://docs.getexponent.com/versions/latest/introduction/installation.html#mobile-client-exponent-for-ios-and-android).
 
